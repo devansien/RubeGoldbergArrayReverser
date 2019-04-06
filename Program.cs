@@ -23,6 +23,7 @@ namespace RubeGoldbergArrayReverser
                 sb.Append($"{obj.ToString()} ");
             Console.WriteLine(sb.ToString());
 
+            Console.WriteLine("\nPress any key to stop");
             Console.ReadKey();
         }
     }

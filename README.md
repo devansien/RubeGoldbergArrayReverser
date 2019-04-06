@@ -12,7 +12,7 @@ This project consists of:
 
 ```
     2. The primary goal was to solve an array reversing problem without using any
-	   of the pre-written array functions.
+	   of the pre-written array libraries.
 ```
 
 ```
