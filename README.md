@@ -3,10 +3,10 @@
 This project consists of:
 * Simple but unnecessarily complex array reverser.
 
-# Description:
+## Description:
 
 ```
-    1. This project was given as one of the code review based interview quetions 
+    1. This project was given as one of the code review based interview questions 
        from an IT company looking for a graduate software developer.
 ```
 
