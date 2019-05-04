@@ -9,7 +9,7 @@ namespace RubeGoldbergArrayReverser
         {
             StringBuilder sb = new StringBuilder();
 
-            object[] array = new object[] { 1, "B", 3, "D", 5 };
+            object[] array = new object[] { 1, "A", 3, "B", 5, "C", 7, "D" };
             Console.WriteLine("Original array: ");
             foreach (object obj in array)
                 sb.Append($"{obj.ToString()} ");

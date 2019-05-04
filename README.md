@@ -1,9 +1,9 @@
 # Rube Goldberg Array Reverser
 
 This project consists of:
-* Simple but unnecessarily complex array reverser
+* Simple but unnecessarily complex array reverser.
 
-## Description:
+# Description:
 
 ```
     1. This project was given as one of the code review based interview quetions 
