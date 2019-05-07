@@ -5,6 +5,8 @@
     <TargetFramework>netcoreapp2.2</TargetFramework>
     <Authors>devansien</Authors>
     <Company>Ansien</Company>
+    <Product>Rube Goldberg Array Reverser</Product>
+    <Description>Array reverser</Description>
   </PropertyGroup>
 
 </Project>
